@@ -1,7 +1,7 @@
 # Simple Book App
 ### 10 Best Book ever written, based on my opinion :)
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 ![Kotlin Logo](kotlinlogo.png)
 
 Written in Kotlin. 
