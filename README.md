@@ -15,11 +15,11 @@ Written in Kotlin.
 |5| Intent  |
 |6| etc  |
 
-![ss](ss1.jpg)
-![ss](ss2.jpg)
-![ss](ss2-1.jpg)
-![ss](ss3.jpg)
-![ss](ss4.jpg)
+![ss](ss1.jpeg)
+![ss](ss2.jpeg)
+![ss](ss2-1.jpeg)
+![ss](ss3.jpeg)
+![ss](ss4.jpeg)
 
 ## License
 
